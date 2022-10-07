@@ -3,7 +3,7 @@
 Software Developer.
 
 
-💻 &nbsp;Software Developer at [WinSocial](https://www.linkedin.com/company/somoswinsocial/mycompany/) <br>
+💻 &nbsp;Software Developer at [Turing](https://www.turing.com/) <br>
 🏡 &nbsp;Brazilian, Based in Rio de Janeiro, RJ <br>
 
 
