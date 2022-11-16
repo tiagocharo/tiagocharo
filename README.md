@@ -3,7 +3,7 @@
 Software Developer.
 
 
-💻 &nbsp;Software Developer at [Turing](https://www.turing.com/) <br>
+💻 &nbsp;Tech Lead at [Rivian](https://rivian.com/) <br>
 🏡 &nbsp;Brazilian, Based in Rio de Janeiro, RJ <br>
 
 
