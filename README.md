@@ -1,9 +1,9 @@
 # Tiago Rocha 
 
-Software Developer.
+Software Engineer.
 
 
-💻 &nbsp;Tech Lead at [Rivian](https://rivian.com/) <br>
+💻 &nbsp;Software Engineer at [Rivian](https://rivian.com/) <br>
 🏡 &nbsp;Brazilian, Based in Rio de Janeiro, RJ <br>
 
 
