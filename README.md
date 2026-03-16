@@ -3,7 +3,7 @@
 Software Engineer.
 
 
-💻 &nbsp;Software Engineer at [Rivian](https://rivian.com/) <br>
+💻 &nbsp;Software Engineer at [Prenuvo](https://prenuvo.com/) <br>
 🏡 &nbsp;Brazilian, Based in Rio de Janeiro, RJ <br>
 
 
